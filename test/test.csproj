@@ -52,6 +52,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="AStarTest.cs" />
     <Compile Include="BinarySearchTest.cs" />
     <Compile Include="BinarySearchTreeTest.cs" />
     <Compile Include="EtcTest.cs" />
